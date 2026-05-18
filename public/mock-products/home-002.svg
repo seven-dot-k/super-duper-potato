@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Aromatherapy Diffuser product image">
+  <rect width="900" height="700" fill="#f8fafc"/>
+  <ellipse cx="450" cy="590" rx="190" ry="28" fill="#dce3eb"/>
+  <path d="M300 390c0-82 67-149 150-149s150 67 150 149l-48 145H348l-48-145Z" fill="#e5e7eb" stroke="#94a3b8" stroke-width="10"/>
+  <path d="M372 535h156" stroke="#38bdf8" stroke-width="16" stroke-linecap="round"/>
+  <path d="M398 205c-36-46 44-62 8-110M466 205c-36-46 44-62 8-110M534 205c-36-46 44-62 8-110" fill="none" stroke="#a7f3d0" stroke-width="14" stroke-linecap="round"/>
+</svg>

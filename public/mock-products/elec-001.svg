@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Wireless Headphones Pro product image">
+  <rect width="900" height="700" fill="#f7f8fa"/>
+  <ellipse cx="450" cy="590" rx="210" ry="28" fill="#d9dde4"/>
+  <path d="M290 330c0-120 70-205 160-205s160 85 160 205" fill="none" stroke="#222936" stroke-width="44" stroke-linecap="round"/>
+  <rect x="210" y="318" width="150" height="225" rx="64" fill="#303746"/>
+  <rect x="540" y="318" width="150" height="225" rx="64" fill="#303746"/>
+  <rect x="246" y="356" width="78" height="148" rx="35" fill="#64748b"/>
+  <rect x="576" y="356" width="78" height="148" rx="35" fill="#64748b"/>
+  <circle cx="450" cy="206" r="18" fill="#38bdf8"/>
+</svg>

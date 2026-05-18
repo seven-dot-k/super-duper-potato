@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Resistance Band Set product image">
+  <rect width="900" height="700" fill="#f8fafc"/>
+  <ellipse cx="450" cy="590" rx="245" ry="30" fill="#dce3eb"/>
+  <path d="M282 378c0-86 70-156 156-156s156 70 156 156-70 156-156 156-156-70-156-156Z" fill="none" stroke="#ef4444" stroke-width="28"/>
+  <path d="M350 378c0-49 40-88 88-88s88 39 88 88-39 88-88 88-88-39-88-88Z" fill="none" stroke="#22c55e" stroke-width="22"/>
+  <path d="M182 388h155M563 388h155" stroke="#1f2937" stroke-width="38" stroke-linecap="round"/>
+</svg>

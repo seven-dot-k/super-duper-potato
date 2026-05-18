@@ -1,0 +1,268 @@
+{
+  "version": "1.0.0",
+  "steps": {
+    "node_modules/workflow/dist/internal/builtins.js": {
+      "__builtin_response_array_buffer": {
+        "stepId": "__builtin_response_array_buffer"
+      },
+      "__builtin_response_json": {
+        "stepId": "__builtin_response_json"
+      },
+      "__builtin_response_text": {
+        "stepId": "__builtin_response_text"
+      }
+    },
+    "src/workflows/shopper-assistant/tools/cart.ts": {
+      "cartCheckoutTools/add_to_cart/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/cart//cartCheckoutTools/add_to_cart/execute"
+      },
+      "cartCheckoutTools/set_fulfillment_info/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/cart//cartCheckoutTools/set_fulfillment_info/execute"
+      },
+      "cartCheckoutTools/summarize_cart/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/cart//cartCheckoutTools/summarize_cart/execute"
+      }
+    },
+    "src/workflows/shopper-assistant/tools/returns.ts": {
+      "returnTools/check_return_eligibility/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/returns//returnTools/check_return_eligibility/execute"
+      },
+      "returnTools/generate_return_label/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/returns//returnTools/generate_return_label/execute"
+      },
+      "returnTools/initiate_return/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/returns//returnTools/initiate_return/execute"
+      },
+      "returnTools/request_admin_approval/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/returns//returnTools/request_admin_approval/execute"
+      },
+      "returnTools/request_return_docs/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/returns//returnTools/request_return_docs/execute"
+      },
+      "returnTools/review_return_docs/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/returns//returnTools/review_return_docs/execute"
+      },
+      "writeReturnStatus": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/returns//writeReturnStatus"
+      }
+    },
+    "src/workflows/shopper-assistant/tools/policies.ts": {
+      "genericSupportTools/policy_search/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/policies//genericSupportTools/policy_search/execute"
+      }
+    },
+    "src/workflows/shopper-assistant/router/triage.ts": {
+      "runShopperTriage": {
+        "stepId": "step//./src/workflows/shopper-assistant/router/triage//runShopperTriage"
+      }
+    },
+    "node_modules/workflow/dist/stdlib.js": {
+      "fetch": {
+        "stepId": "step//workflow@4.2.0-beta.76//fetch"
+      }
+    },
+    "src/workflows/shopper-assistant/tools/catalog.ts": {
+      "productDiscoveryTools/get_product_details/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/catalog//productDiscoveryTools/get_product_details/execute"
+      },
+      "productDiscoveryTools/get_product_faq/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/catalog//productDiscoveryTools/get_product_faq/execute"
+      },
+      "productDiscoveryTools/get_product_manual/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/catalog//productDiscoveryTools/get_product_manual/execute"
+      },
+      "productDiscoveryTools/search_products/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/catalog//productDiscoveryTools/search_products/execute"
+      }
+    },
+    "node_modules/@workflow/ai/dist/agent/do-stream-step.js": {
+      "doStreamStep": {
+        "stepId": "step//@workflow/ai@4.1.0-beta.60//doStreamStep"
+      }
+    },
+    "src/workflows/shopper-assistant/tools/orders.ts": {
+      "orderTools/cancel_order/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/orders//orderTools/cancel_order/execute"
+      },
+      "orderTools/get_order_details/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/orders//orderTools/get_order_details/execute"
+      },
+      "orderTools/lookup_orders/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/orders//orderTools/lookup_orders/execute"
+      }
+    },
+    "src/workflows/cart-abandonment/workflow.ts": {
+      "evaluateCartAbandonment": {
+        "stepId": "step//./src/workflows/cart-abandonment/workflow//evaluateCartAbandonment"
+      }
+    },
+    "src/workflows/shopper-assistant/tools/handoff.ts": {
+      "humanHandoffTools/create_handoff/execute": {
+        "stepId": "step//./src/workflows/shopper-assistant/tools/handoff//humanHandoffTools/create_handoff/execute"
+      }
+    },
+    "src/workflows/shared/steps/writer.ts": {
+      "writeAgentSwitch": {
+        "stepId": "step//./src/workflows/shared/steps/writer//writeAgentSwitch"
+      },
+      "writeAssistantMessageMarker": {
+        "stepId": "step//./src/workflows/shared/steps/writer//writeAssistantMessageMarker"
+      },
+      "writeCartAbandonmentDebug": {
+        "stepId": "step//./src/workflows/shared/steps/writer//writeCartAbandonmentDebug"
+      },
+      "writeStreamClose": {
+        "stepId": "step//./src/workflows/shared/steps/writer//writeStreamClose"
+      },
+      "writeTurnEnd": {
+        "stepId": "step//./src/workflows/shared/steps/writer//writeTurnEnd"
+      },
+      "writeUserMessageMarker": {
+        "stepId": "step//./src/workflows/shared/steps/writer//writeUserMessageMarker"
+      }
+    },
+    "node_modules/@workflow/ai/dist/agent/stream-text-iterator.js": {
+      "writeToolOutputToUI": {
+        "stepId": "step//@workflow/ai@4.1.0-beta.60//writeToolOutputToUI"
+      }
+    },
+    "node_modules/@workflow/ai/dist/agent/durable-agent.js": {
+      "closeStream": {
+        "stepId": "step//@workflow/ai/agent@4.1.0-beta.60//closeStream"
+      },
+      "convertChunksToUIMessages": {
+        "stepId": "step//@workflow/ai/agent@4.1.0-beta.60//convertChunksToUIMessages"
+      },
+      "writeFinishChunk": {
+        "stepId": "step//@workflow/ai/agent@4.1.0-beta.60//writeFinishChunk"
+      }
+    }
+  },
+  "workflows": {
+    "src/workflows/cart-abandonment/workflow.ts": {
+      "cartAbandonmentWorkflow": {
+        "workflowId": "workflow//./src/workflows/cart-abandonment/workflow//cartAbandonmentWorkflow",
+        "graph": {
+          "nodes": [
+            {
+              "id": "start",
+              "type": "workflowStart",
+              "data": {
+                "label": "Start: cartAbandonmentWorkflow",
+                "nodeKind": "workflow_start"
+              }
+            },
+            {
+              "id": "cond_1_node",
+              "type": "conditional",
+              "data": {
+                "label": "delayMs > 0",
+                "nodeKind": "conditional"
+              }
+            },
+            {
+              "id": "node_0",
+              "type": "primitive",
+              "data": {
+                "label": "sleep",
+                "nodeKind": "primitive"
+              },
+              "metadata": {
+                "conditionalId": "cond_1",
+                "conditionalBranch": "Then"
+              }
+            },
+            {
+              "id": "end",
+              "type": "workflowEnd",
+              "data": {
+                "label": "Return",
+                "nodeKind": "workflow_end"
+              }
+            }
+          ],
+          "edges": [
+            {
+              "id": "e_cond_1_node_node_0_true",
+              "source": "cond_1_node",
+              "target": "node_0",
+              "type": "conditional",
+              "label": "true"
+            },
+            {
+              "id": "e_start_cond_1_node",
+              "source": "start",
+              "target": "cond_1_node",
+              "type": "default"
+            },
+            {
+              "id": "e_node_0_end",
+              "source": "node_0",
+              "target": "end",
+              "type": "default"
+            }
+          ]
+        }
+      }
+    },
+    "src/workflows/shopper-assistant/workflow.ts": {
+      "shopperAssistantWorkflow": {
+        "workflowId": "workflow//./src/workflows/shopper-assistant/workflow//shopperAssistantWorkflow",
+        "graph": {
+          "nodes": [
+            {
+              "id": "start",
+              "type": "workflowStart",
+              "data": {
+                "label": "Start: shopperAssistantWorkflow",
+                "nodeKind": "workflow_start"
+              }
+            },
+            {
+              "id": "node_0",
+              "type": "agent",
+              "data": {
+                "label": "DurableAgent",
+                "nodeKind": "agent"
+              },
+              "metadata": {
+                "isStepReference": true,
+                "referenceContext": "DurableAgent",
+                "loopId": "loop_2"
+              }
+            },
+            {
+              "id": "end",
+              "type": "workflowEnd",
+              "data": {
+                "label": "Return",
+                "nodeKind": "workflow_end"
+              }
+            }
+          ],
+          "edges": [
+            {
+              "id": "e_node_0_back_node_0",
+              "source": "node_0",
+              "target": "node_0",
+              "type": "loop"
+            },
+            {
+              "id": "e_start_node_0",
+              "source": "start",
+              "target": "node_0",
+              "type": "default"
+            },
+            {
+              "id": "e_node_0_end",
+              "source": "node_0",
+              "target": "end",
+              "type": "default"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "classes": {}
+}

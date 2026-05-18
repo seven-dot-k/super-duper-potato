@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="USB-C Hub 7-in-1 product image">
+  <rect width="900" height="700" fill="#f8fafc"/>
+  <ellipse cx="450" cy="584" rx="230" ry="30" fill="#dbe1e8"/>
+  <rect x="205" y="250" width="490" height="250" rx="42" fill="#cbd5e1" stroke="#475569" stroke-width="12"/>
+  <rect x="260" y="314" width="86" height="52" rx="12" fill="#0f172a"/>
+  <rect x="386" y="314" width="86" height="52" rx="12" fill="#0f172a"/>
+  <rect x="512" y="314" width="86" height="52" rx="12" fill="#0f172a"/>
+  <circle cx="626" cy="341" r="28" fill="#38bdf8"/>
+  <path d="M695 374h74c28 0 51-23 51-51v-22" fill="none" stroke="#64748b" stroke-width="20" stroke-linecap="round"/>
+</svg>

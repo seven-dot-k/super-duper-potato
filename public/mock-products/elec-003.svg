@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Smart Watch Series X product image">
+  <rect width="900" height="700" fill="#f7f8fa"/>
+  <ellipse cx="450" cy="588" rx="175" ry="30" fill="#d9dde4"/>
+  <rect x="370" y="95" width="160" height="510" rx="70" fill="#1f2937"/>
+  <rect x="318" y="220" width="264" height="264" rx="58" fill="#111827"/>
+  <rect x="345" y="247" width="210" height="210" rx="40" fill="#0ea5e9"/>
+  <path d="M392 365l38 38 82-104" fill="none" stroke="#ecfeff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

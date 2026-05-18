@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Insulated Water Bottle product image">
+  <rect width="900" height="700" fill="#f7f8fa"/>
+  <ellipse cx="450" cy="590" rx="155" ry="28" fill="#d9dde4"/>
+  <rect x="360" y="190" width="180" height="365" rx="80" fill="#0f766e"/>
+  <rect x="385" y="126" width="130" height="90" rx="28" fill="#134e4a"/>
+  <rect x="407" y="92" width="86" height="48" rx="18" fill="#1f2937"/>
+  <path d="M395 300h110M395 360h110" stroke="#ccfbf1" stroke-width="14" stroke-linecap="round"/>
+</svg>

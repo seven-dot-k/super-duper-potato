@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Denim Jacket Classic product image">
+  <rect width="900" height="700" fill="#f7f8fa"/>
+  <ellipse cx="450" cy="590" rx="220" ry="30" fill="#d9dde4"/>
+  <path d="M322 196l86-44h84l86 44 72 368H250l72-368Z" fill="#1d4ed8" stroke="#1e3a8a" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M408 152l42 142 42-142M450 295v269M326 336h86M488 336h86" stroke="#bfdbfe" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="450" cy="356" r="9" fill="#f8fafc"/><circle cx="450" cy="416" r="9" fill="#f8fafc"/><circle cx="450" cy="476" r="9" fill="#f8fafc"/>
+</svg>

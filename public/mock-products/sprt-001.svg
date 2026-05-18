@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Trail Running Shoes product image">
+  <rect width="900" height="700" fill="#f8fafc"/>
+  <ellipse cx="450" cy="585" rx="255" ry="32" fill="#dce3eb"/>
+  <path d="M220 430c98-18 154-75 200-160 82 32 142 88 230 102 42 7 75 36 82 78l7 41H240c-28 0-43-28-20-61Z" fill="#2563eb"/>
+  <path d="M310 418h395c32 0 58 26 58 58H250c0-32 26-58 60-58Z" fill="#111827"/>
+  <path d="M418 286l-60 110M490 326l-72 72M560 360l-64 52" stroke="#f97316" stroke-width="16" stroke-linecap="round"/>
+</svg>

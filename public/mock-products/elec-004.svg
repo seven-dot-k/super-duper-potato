@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Portable Bluetooth Speaker product image">
+  <rect width="900" height="700" fill="#f8fafc"/>
+  <ellipse cx="450" cy="578" rx="240" ry="34" fill="#dce3eb"/>
+  <rect x="235" y="245" width="430" height="250" rx="70" fill="#334155"/>
+  <circle cx="350" cy="370" r="82" fill="#0f172a"/>
+  <circle cx="550" cy="370" r="82" fill="#0f172a"/>
+  <circle cx="350" cy="370" r="42" fill="#64748b"/>
+  <circle cx="550" cy="370" r="42" fill="#64748b"/>
+  <rect x="389" y="195" width="122" height="34" rx="17" fill="#38bdf8"/>
+</svg>

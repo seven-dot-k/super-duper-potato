@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Mechanical Keyboard RGB product image">
+  <rect width="900" height="700" fill="#f8fafc"/>
+  <ellipse cx="450" cy="583" rx="265" ry="32" fill="#dce3eb"/>
+  <rect x="180" y="270" width="540" height="240" rx="34" fill="#1f2937"/>
+  <g fill="#475569">
+    <rect x="226" y="314" width="56" height="42" rx="8"/><rect x="298" y="314" width="56" height="42" rx="8"/><rect x="370" y="314" width="56" height="42" rx="8"/><rect x="442" y="314" width="56" height="42" rx="8"/><rect x="514" y="314" width="56" height="42" rx="8"/><rect x="586" y="314" width="84" height="42" rx="8"/>
+    <rect x="226" y="378" width="68" height="42" rx="8"/><rect x="310" y="378" width="56" height="42" rx="8"/><rect x="382" y="378" width="56" height="42" rx="8"/><rect x="454" y="378" width="56" height="42" rx="8"/><rect x="526" y="378" width="56" height="42" rx="8"/><rect x="598" y="378" width="72" height="42" rx="8"/>
+    <rect x="226" y="442" width="126" height="42" rx="8"/><rect x="368" y="442" width="184" height="42" rx="8"/><rect x="568" y="442" width="102" height="42" rx="8"/>
+  </g>
+  <path d="M236 302h424" stroke="#38bdf8" stroke-width="8" stroke-linecap="round"/>
+</svg>

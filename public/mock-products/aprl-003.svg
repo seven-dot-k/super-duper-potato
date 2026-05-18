@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Merino Wool Socks product image">
+  <rect width="900" height="700" fill="#f8fafc"/>
+  <ellipse cx="450" cy="590" rx="215" ry="30" fill="#dce3eb"/>
+  <path d="M325 145h120v260c0 60-48 108-108 108h-92c-32 0-58-26-58-58s26-58 58-58h80V145Z" fill="#64748b"/>
+  <path d="M475 145h120v260c0 60-48 108-108 108h-92c-32 0-58-26-58-58s26-58 58-58h80V145Z" fill="#94a3b8"/>
+  <path d="M325 208h120M475 208h120" stroke="#f97316" stroke-width="18"/>
+</svg>

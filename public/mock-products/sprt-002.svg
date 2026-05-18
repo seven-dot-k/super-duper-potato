@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Yoga Mat Premium product image">
+  <rect width="900" height="700" fill="#f7f8fa"/>
+  <ellipse cx="450" cy="588" rx="240" ry="30" fill="#d9dde4"/>
+  <path d="M255 485c0-78 63-142 142-142h248v142H255Z" fill="#14b8a6"/>
+  <path d="M397 343c78 0 142 64 142 142H255c0-78 64-142 142-142Z" fill="#2dd4bf"/>
+  <rect x="535" y="343" width="110" height="142" rx="55" fill="#0f766e"/>
+  <path d="M332 390h146M305 438h180" stroke="#ecfeff" stroke-width="12" stroke-linecap="round"/>
+</svg>

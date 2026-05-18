@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Stainless Steel Cookware Set product image">
+  <rect width="900" height="700" fill="#f7f8fa"/>
+  <ellipse cx="450" cy="590" rx="255" ry="30" fill="#d9dde4"/>
+  <path d="M250 380h400l-45 138H295l-45-138Z" fill="#cbd5e1" stroke="#64748b" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M295 360c30-74 280-74 310 0" fill="none" stroke="#94a3b8" stroke-width="20" stroke-linecap="round"/>
+  <path d="M250 394H135M650 394h115" stroke="#475569" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="450" cy="300" r="28" fill="#334155"/>
+</svg>

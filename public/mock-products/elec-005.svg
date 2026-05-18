@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="4K Webcam Ultra product image">
+  <rect width="900" height="700" fill="#f7f8fa"/>
+  <ellipse cx="450" cy="590" rx="180" ry="30" fill="#d9dde4"/>
+  <rect x="260" y="220" width="380" height="220" rx="70" fill="#1f2937"/>
+  <circle cx="450" cy="330" r="78" fill="#020617"/>
+  <circle cx="450" cy="330" r="42" fill="#0ea5e9"/>
+  <circle cx="475" cy="305" r="13" fill="#e0f2fe"/>
+  <rect x="390" y="440" width="120" height="96" rx="18" fill="#334155"/>
+  <rect x="310" y="520" width="280" height="44" rx="22" fill="#475569"/>
+</svg>
